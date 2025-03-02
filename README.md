@@ -54,3 +54,38 @@ Step 2 Create a new Python script pandas_assignment.ipynb. Import Pandas and fol
 4. Group the data by 'Department' and calculate the average salary for each department.  
 
 5. Sort the DataFrame by 'Salary' in ascending order and save the result to a new CSV file.  
+
+#ASSIGNMENT - 3
+
+Objective Practice data visualization techniques for better data representation.  
+
+Step 1 Install Matplotlib using:
+pip install matplotlib
+
+Step 2 Create a new Python script matplotlib_assignment.ipynb. Import Matplotlib and follow these steps:  
+
+1. Create a simple line plot for the following data:
+  
+  x = [1, 2, 3, 4, 5]
+  y = [10, 15, 25, 30, 50]
+  
+  a. Plot the data.  
+  b. Customize the plot by adding a title, axis labels, and a grid.  
+
+2. Create a bar graph to represent the marks scored by students in a subject:  
+  
+  students = ['John', 'Jane', 'Alice', 'Bob']
+  marks = [75, 85, 60, 90]
+  
+  a. Plot the data as a bar graph.  
+  b. Customize the colors and add a title.  
+
+3. Create a pie chart to represent the percentage distribution of a company’s revenue from different regions:  
+  
+  regions = ['North America', 'Europe', 'Asia', 'Others']
+  revenue = [45, 25, 20, 10]
+  
+  a. Create a pie chart with the region names as labels.  
+  b. Highlight the region with the highest revenue.  
+
+4. Generate a histogram to show the frequency distribution of randomly generated integers between 1 and 100 (sample size = 1000).  
