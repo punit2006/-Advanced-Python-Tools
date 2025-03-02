@@ -55,7 +55,7 @@ Step 2 Create a new Python script pandas_assignment.ipynb. Import Pandas and fol
 
 5. Sort the DataFrame by 'Salary' in ascending order and save the result to a new CSV file.  
 
-#ASSIGNMENT - 3
+#ASSIGNMENT - 3 [matplotlib_assignment.py]
 
 Objective Practice data visualization techniques for better data representation.  
 
