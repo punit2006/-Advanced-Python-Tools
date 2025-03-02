@@ -1,5 +1,6 @@
 #ADVANCED PYTHON TOOLS
-#ASSIGNMENT - 1
+
+#ASSIGNMENT - 1 [numpy_assignment.py]
 
 Objective Understand the basics of NumPy, array creation, and manipulation.
 
@@ -23,7 +24,7 @@ Step 2 Create a new Python script numpy_assignment.ipynb. Import NumPy and follo
 
 4. Reshape a 1D array of size 12 into a 3 X 4 2D array and slice the first two rows and last two columns.  
 
-#ASSIGNMENT - 2
+#ASSIGNMENT - 2 [pandas_assignment.py]
 
 Objective Learn to create and manipulate dataframes for data analysis.  
 
